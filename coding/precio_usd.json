@@ -1,1 +1,23 @@
-["hola"]
+{
+  "pais": "Cuba",
+  "moneda_local": "CUP",
+  "fecha": "2025-11-24",
+  "precio_usd": {
+    "compra": 250.50,
+    "venta": 252.75,
+    "fuente": "Banco Central de Cuba",
+    "hora_actualizacion": "12:30"
+  },
+  "historico": [
+    {
+      "fecha": "2025-11-23",
+      "compra": 249.80,
+      "venta": 251.90
+    },
+    {
+      "fecha": "2025-11-22",
+      "compra": 248.60,
+      "venta": 250.70
+    }
+  ]
+}
