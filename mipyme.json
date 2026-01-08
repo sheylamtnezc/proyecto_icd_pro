@@ -10,259 +10,239 @@
                 "long": "-82.3803"
             },
             "website": null,
-            "payment_methods": ["efectivo", "pago electrónico"],
+            "payment_methods": ["0efectivo", "pago electrónico"],
             "currency": "cup",
             "products": [
                 {
-                    "salsas": [
-                        {
-                            "id_product": "prod_001",
-                            "type": "Pasta de tomate",
-                            "brand": "Vima",
-                            "net weight": "400 g",
-                            "price": "750 cup"
-                        },
-                        {
-                            "id_product": "prod_002",
-                            "type": "Salsa de tomate",
-                            "brand": "Mantia's",
-                            "net weight": "680 g",
-                            "price": "1600 cup"
-                        },
-                        {
-                            "id_product": "prod_003",
-                            "type": "Mayonesa",
-                            "brand": "Vima",
-                            "net weight": "700 ml",
-                            "price": "3000 cup"
-                        },
-                        {
-                            "id_product": "prod_003",
-                            "type": "Mayonesa",
-                            "brand": "Vima",
-                            "net weight": "450 ml",
-                            "price": "2000 cup"
-                        },
-                        {
-                            "id_product": "prod_003",
-                            "type": "Mayonesa",
-                            "brand": "Vima",
-                            "net weight": "300 ml",
-                            "price": "1300 cup"
-                        },
-                        {
-                            "id_product": "prod_003",
-                            "type": "Mayonesa",
-                            "brand": "Vima",
-                            "net weight": "225 ml",
-                            "price": "1300 cup"
-                        },
-                        {
-                            "id_product": "prod_003",
-                            "type": "Mayonesa",
-                            "brand": "Celorrio",
-                            "net weight": "500 ml",
-                            "price": "1600 cup"
-                        },
-                        {
-                            "id_product": "prod_003",
-                            "type": "Mayonesa",
-                            "brand": "Kurtz",
-                            "net weight": "887 ml",
-                            "price": "3000 cup"
-                        }
-                    ]
+                    "id_product": "prod_001",
+                    "type": "Pasta de tomate",
+                    "brand": "Vima",
+                    "net weight": "400 g",
+                    "price": "750 cup"
                 },
                 {
-                    "café": [
-                        {
-                            "id_product": "prod_004",
-                            "type": "Café",
-                            "brand": "La Llave",
-                            "net weight": "284 g",
-                            "price": "3000 cup"
-                        },
-                        {
-                            "id_product": "prod_004",
-                            "type": "Café",
-                            "brand": "El Morro",
-                            "net weight": "250 g",
-                            "price": "2300 cup"
-                        },
-                        {
-                            "id_product": "prod_004",
-                            "type": "Café",
-                            "brand": "Aroma",
-                            "net weight": "250 g",
-                            "price": "2300 cup"
-                        }
-                    ]
+                    "id_product": "prod_002",
+                    "type": "Salsa de tomate",
+                    "brand": "Mantia's",
+                    "net weight": "680 g",
+                    "price": "1600 cup"
                 },
                 {
-                    "pastas": [
-                        {
-                            "id_product": "prod_005",
-                            "type": "Spaghetti",
-                            "brand": "Donatella",
-                            "net weight": "500 g",
-                            "price": "415 cup"
-                        },
-                        {
-                            "id_product": "prod_006",
-                            "type": "Macaroni",
-                            "brand": "Donatella",
-                            "net weight": "500 g",
-                            "price": "385 cup"
-                        }
-                    ]
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Vima",
+                    "net weight": "700 ml",
+                    "price": "3000 cup"
                 },
                 {
-                    "granos": [
-                        {
-                            "id_product": "prod_007",
-                            "type": "Lentejas",
-                            "brand": "Goya",
-                            "net weight": "397 g",
-                            "price": "850 cup"
-                        },
-                        {
-                            "id_product": "prod_008",
-                            "type": "Chícharo",
-                            "brand": "Goya",
-                            "net weight": "397 g",
-                            "price": "850 cup"
-                        },
-                        {
-                            "id_product": "prod_009",
-                            "type": "Frijol Pinto",
-                            "brand": "La Merced",
-                            "net weight": "500 g",
-                            "price": "750 cup"
-                        },
-                        {
-                            "id_product": "prod_008",
-                            "type": "Chícharo",
-                            "brand": "La Merced",
-                            "net weight": "500 g",
-                            "price": "750 cup"
-                        },
-                        {
-                            "id_product": "prod_010",
-                            "type": "Alubias",
-                            "brand": "La Merced",
-                            "net weight": "500 g",
-                            "price": "750 cup"
-                        },
-                        {
-                            "id_product": "prod_007",
-                            "type": "Lentejas",
-                            "brand": "La Merced",
-                            "net weight": "500 g",
-                            "price": "750 cup"
-                        },
-                        {
-                            "id_product": "prod_011",
-                            "type": "Arroz",
-                            "brand": "Sublime",
-                            "net weight": "1 kg",
-                            "price": "750 cup"
-                        },
-                        {
-                            "id_product": "prod_012",
-                            "type": "Avena",
-                            "brand": "La Merced",
-                            "net weight": "400 g",
-                            "price": "650 cup"
-                        },
-                        {
-                            "id_product": "prod_013",
-                            "type": "Frijol Negro",
-                            "brand": "Extremjo",
-                            "net weight": "1 kg",
-                            "price": "1000 cup"
-                        }
-                    ]
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Vima",
+                    "net weight": "450 ml",
+                    "price": "2000 cup"
                 },
                 {
-                    "otros": [
-                        {
-                            "id_product": "prod_014",
-                            "type": "Aceite vegetal",
-                            "brand": "Abali",
-                            "net weight": "900 ml",
-                            "price": "891 cup"
-                        },
-                        {
-                            "id_product": "prod_015",
-                            "type": "Azúcar",
-                            "brand": "Sublime",
-                            "net weight": "1 kg",
-                            "price": "800 cup"
-                        },
-                        {
-                            "id_product": "prod_016",
-                            "type": "Vinagre de vino",
-                            "brand": "Aldaketa",
-                            "net weight": "1 l",
-                            "price": "800 cup"
-                        },
-                        {
-                            "id_product": "prod_016",
-                            "type": "Vinagre de vino",
-                            "brand": "Goya",
-                            "net weight": "1 l",
-                            "price": "900 cup"
-                        },
-                        {
-                            "id_product": "prod_017",
-                            "type": "Vinagre de vino tinto",
-                            "brand": "Aldaketa",
-                            "net weight": "1 l",
-                            "price": "800 cup"
-                        },
-                        {
-                            "id_product": "prod_018",
-                            "type": "Aceite de oliva",
-                            "brand": "Vima",
-                            "net weight": "250 ml",
-                            "price": "2800 cup"
-                        },
-                        {
-                            "id_product": "prod_019",
-                            "type": "Leche condensada",
-                            "brand": "La Guajirita",
-                            "net weight": "390 g",
-                            "price": "600 cup"
-                        },
-                        {
-                            "id_product": "prod_018",
-                            "type": "Aceite de oliva",
-                            "brand": "Abril",
-                            "net weight": "1 l",
-                            "price": "6000 cup"
-                        },
-                        {
-                            "id_product": "prod_020",
-                            "type": "Sazón Completo",
-                            "brand": "Badia",
-                            "net weight": "340 g",
-                            "price": "2400 cup"
-                        },
-                        {
-                            "id_product": "prod_021",
-                            "type": "Adobo",
-                            "brand": "Badia",
-                            "net weight": "360 g",
-                            "price": "2400 cup"
-                        },
-                        {
-                            "id_product": "prod_022",
-                            "type": "Sal",
-                            "brand": "Marcum",
-                            "net weight": "737 g",
-                            "price": "750 cup"
-                        }
-                    ]
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Vima",
+                    "net weight": "300 ml",
+                    "price": "1300 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Vima",
+                    "net weight": "225 ml",
+                    "price": "1300 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Celorrio",
+                    "net weight": "500 ml",
+                    "price": "1600 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Kurtz",
+                    "net weight": "887 ml",
+                    "price": "3000 cup"
+                },
+                {
+                    "id_product": "prod_004",
+                    "type": "Café",
+                    "brand": "La Llave",
+                    "net weight": "284 g",
+                    "price": "3000 cup"
+                },
+                {
+                    "id_product": "prod_004",
+                    "type": "Café",
+                    "brand": "El Morro",
+                    "net weight": "250 g",
+                    "price": "2300 cup"
+                },
+                {
+                    "id_product": "prod_004",
+                    "type": "Café",
+                    "brand": "Aroma",
+                    "net weight": "250 g",
+                    "price": "2300 cup"
+                },
+                {
+                    "id_product": "prod_005",
+                    "type": "Spaghetti",
+                    "brand": "Donatella",
+                    "net weight": "500 g",
+                    "price": "415 cup"
+                },
+                {
+                    "id_product": "prod_006",
+                    "type": "Macaroni",
+                    "brand": "Donatella",
+                    "net weight": "500 g",
+                    "price": "385 cup"
+                },
+                {
+                    "id_product": "prod_008",
+                    "type": "Chícharo",
+                    "brand": "Goya",
+                    "net weight": "397 g",
+                    "price": "850 cup"
+                },
+                {
+                    "id_product": "prod_009",
+                    "type": "Frijol Pinto",
+                    "brand": "La Merced",
+                    "net weight": "500 g",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_008",
+                    "type": "Chícharo",
+                    "brand": "La Merced",
+                    "net weight": "500 g",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_010",
+                    "type": "Alubias",
+                    "brand": "La Merced",
+                    "net weight": "500 g",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_007",
+                    "type": "Lentejas",
+                    "brand": "La Merced",
+                    "net weight": "500 g",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_011",
+                    "type": "Arroz",
+                    "brand": "Sublime",
+                    "net weight": "1 kg",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_012",
+                    "type": "Avena",
+                    "brand": "La Merced",
+                    "net weight": "400 g",
+                    "price": "650 cup"
+                },
+                {
+                    "id_product": "prod_013",
+                    "type": "Frijol Negro",
+                    "brand": "Extremjo",
+                    "net weight": "1 kg",
+                    "price": "1000 cup"
+                },
+                {
+                    "id_product": "prod_007",
+                    "type": "Lentejas",
+                    "brand": "Goya",
+                    "net weight": "397 g",
+                    "price": "850 cup"
+                },
+                {
+                    "id_product": "prod_014",
+                    "type": "Aceite vegetal",
+                    "brand": "Abali",
+                    "net weight": "900 ml",
+                    "price": "891 cup"
+                },
+                {
+                    "id_product": "prod_015",
+                    "type": "Azúcar",
+                    "brand": "Sublime",
+                    "net weight": "1 kg",
+                    "price": "800 cup"
+                },
+                {
+                    "id_product": "prod_016",
+                    "type": "Vinagre de vino",
+                    "brand": "Aldaketa",
+                    "net weight": "1 l",
+                    "price": "800 cup"
+                },
+                {
+                    "id_product": "prod_016",
+                    "type": "Vinagre de vino",
+                    "brand": "Goya",
+                    "net weight": "1 l",
+                    "price": "900 cup"
+                },
+                {
+                    "id_product": "prod_017",
+                    "type": "Vinagre de vino tinto",
+                    "brand": "Aldaketa",
+                    "net weight": "1 l",
+                    "price": "800 cup"
+                },
+                {
+                    "id_product": "prod_018",
+                    "type": "Aceite de oliva",
+                    "brand": "Vima",
+                    "net weight": "250 ml",
+                    "price": "2800 cup"
+                },
+                {
+                    "id_product": "prod_019",
+                    "type": "Leche condensada",
+                    "brand": "La Guajirita",
+                    "net weight": "390 g",
+                    "price": "600 cup"
+                },
+                {
+                    "id_product": "prod_018",
+                    "type": "Aceite de oliva",
+                    "brand": "Abril",
+                    "net weight": "1 l",
+                    "price": "6000 cup"
+                },
+                {
+                    "id_product": "prod_020",
+                    "type": "Sazón Completo",
+                    "brand": "Badia",
+                    "net weight": "340 g",
+                    "price": "2400 cup"
+                },
+                {
+                    "id_product": "prod_021",
+                    "type": "Adobo",
+                    "brand": "Badia",
+                    "net weight": "360 g",
+                    "price": "2400 cup"
+                },
+                {
+                    "id_product": "prod_022",
+                    "type": "Sal",
+                    "brand": "Marcum",
+                    "net weight": "737 g",
+                    "price": "750 cup"
                 }
             ]
         },
@@ -280,90 +260,74 @@
             "currency": ["cup"],
             "products": [
                 {
-                    "salsas": [
-                        {
-                            "id_product": "prod_001",
-                            "type": "Pasta de tomate",
-                            "brand": "Lucy",
-                            "net weight": "400 g",
-                            "price": "450 cup"
-                        },
-                        {
-                            "id_product": "prod_003",
-                            "type": "Mayonesa",
-                            "brand": "Nezka",
-                            "net weight": "490 ml",
-                            "price": "700 cup"
-                        }
-                    ]
+                    "id_product": "prod_001",
+                    "type": "Pasta de tomate",
+                    "brand": "Lucy",
+                    "net weight": "400 g",
+                    "price": "450 cup"
                 },
                 {
-                    "granos": [
-                        {
-                            "id_product": "prod_011",
-                            "type": "Arroz",
-                            "brand": "Sublime",
-                            "net weight": "1 kg",
-                            "price": "570 cup"
-                        },
-                        {
-                            "id_product": "prod_013",
-                            "type": "Frijol Negro",
-                            "brand": "None",
-                            "net weight": "500 g",
-                            "price": "800 cup"
-                        }
-                    ]
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Nezka",
+                    "net weight": "490 ml",
+                    "price": "700 cup"
                 },
                 {
-                    "pastas": [
-                        {
-                            "id_product": "prod_005",
-                            "type": "Spaghetti",
-                            "brand": "None",
-                            "net weight": "400 g",
-                            "price": "320 cup"
-                        }
-                    ]
+                    "id_product": "prod_011",
+                    "type": "Arroz",
+                    "brand": "Sublime",
+                    "net weight": "1 kg",
+                    "price": "570 cup"
                 },
                 {
-                    "otros": [
-                        {
-                            "id_product": "prod_022",
-                            "type": "Sal",
-                            "brand": "Polasal",
-                            "net weight": "1 kg",
-                            "price": "500 cup"
-                        },
-                        {
-                            "id_product": "prod_015",
-                            "type": "Azúcar",
-                            "brand": "Sublime",
-                            "net weight": "1 kg",
-                            "price": "630 cup"
-                        },
-                        {
-                            "id_product": "prod_023",
-                            "type": "Leche en polvo",
-                            "brand": "None",
-                            "net weight": "1 kg",
-                            "price": "2000 cup"
-                        },
-                        {
-                            "id_product": "prod_014",
-                            "type": "Aceite vegetal",
-                            "brand": "Abali",
-                            "net weight": "900 ml",
-                            "price": "980 cup"
-                        },
-                        {
-                            "id_product": "prod_016",
-                            "type": "Vinagre de vino",
-                            "brand": "Deleite",
-                            "net weight": "750 ml",
-                            "price": "300 cup"
-                        }
-                    ]
+                    "id_product": "prod_013",
+                    "type": "Frijol Negro",
+                    "brand": "None",
+                    "net weight": "500 g",
+                    "price": "800 cup"
+                },
+                {
+                    "id_product": "prod_005",
+                    "type": "Spaghetti",
+                    "brand": "None",
+                    "net weight": "400 g",
+                    "price": "320 cup"
+                },
+                {
+                    "id_product": "prod_022",
+                    "type": "Sal",
+                    "brand": "Polasal",
+                    "net weight": "1 kg",
+                    "price": "500 cup"
+                },
+                {
+                    "id_product": "prod_015",
+                    "type": "Azúcar",
+                    "brand": "Sublime",
+                    "net weight": "1 kg",
+                    "price": "630 cup"
+                },
+                {
+                    "id_product": "prod_023",
+                    "type": "Leche en polvo",
+                    "brand": "None",
+                    "net weight": "1 kg",
+                    "price": "2000 cup"
+                },
+                {
+                    "id_product": "prod_014",
+                    "type": "Aceite vegetal",
+                    "brand": "Abali",
+                    "net weight": "900 ml",
+                    "price": "980 cup"
+                },
+                {
+                    "id_product": "prod_016",
+                    "type": "Vinagre de vino",
+                    "brand": "Deleite",
+                    "net weight": "750 ml",
+                    "price": "300 cup"
                 }
             ]
         },
@@ -381,86 +345,74 @@
             "currency": ["cup"],
             "products": [
                 {
-                    "salsas": [
-                        {
-                            "id_product": "prod_002",
-                            "type": "Salsa de tomate",
-                            "brand": "Mantia's",
-                            "net weight": "680 g",
-                            "price": "1600 cup"
-                        },
-                        {
-                            "id_product": "prod_003",
-                            "type": "Mayonesa",
-                            "brand": "Vima",
-                            "net weight": "225 ml",
-                            "price": "1255 cup"
-                        },
-                        {
-                            "id_product": "prod_003",
-                            "type": "Mayonesa",
-                            "brand": "Kurtz",
-                            "net weight": "887 ml",
-                            "price": "2667 cup"
-                        },
-                        {
-                            "id_product": "prod_003",
-                            "type": "Mayonesa",
-                            "brand": "Vima",
-                            "net weight": "300 ml",
-                            "price": "1330 cup"
-                        }
-                    ]
+                    "id_product": "prod_002",
+                    "type": "Salsa de tomate",
+                    "brand": "Mantia's",
+                    "net weight": "680 g",
+                    "price": "1600 cup"
                 },
                 {
-                    "pastas": [
-                        {
-                            "id_product": "prod_006",
-                            "type": "Macaroni",
-                            "brand": "Jolyni",
-                            "net weight": "450 g",
-                            "price": "480 cup"
-                        },
-                        {
-                            "id_product": "prod_006",
-                            "type": "Macaroni",
-                            "brand": "Jolyni",
-                            "net weight": "200 g",
-                            "price": "205 cup"
-                        }
-                    ]
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Vima",
+                    "net weight": "225 ml",
+                    "price": "1255 cup"
                 },
                 {
-                    "granos": [
-                        {
-                            "id_product": "prod_007",
-                            "type": "Lentejas",
-                            "brand": "El campo",
-                            "net weight": "1 lb",
-                            "price": "750 cup"
-                        },
-                        {
-                            "id_product": "prod_010",
-                            "type": "Alubias",
-                            "brand": "El campo",
-                            "net weight": "1 lb",
-                            "price": "965 cup"
-                        },
-                        {
-                            "id_product": "prod_008",
-                            "type": "Chícharo",
-                            "brand": "El campo",
-                            "net weight": "1 lb",
-                            "price": "655 cup"
-                        },
-                        {
-                            "id_product": "prod_024",
-                            "type": "Frijol Colorado",
-                            "brand": "El campo",
-                            "net weight": "1 lb",
-                            "price": "910 cup"
-                        }
-                    ] 
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Kurtz",
+                    "net weight": "887 ml",
+                    "price": "2667 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Vima",
+                    "net weight": "300 ml",
+                    "price": "1330 cup"
+                },
+                {
+                    "id_product": "prod_006",
+                    "type": "Macaroni",
+                    "brand": "Jolyni",
+                    "net weight": "450 g",
+                    "price": "480 cup"
+                },
+                {
+                    "id_product": "prod_006",
+                    "type": "Macaroni",
+                    "brand": "Jolyni",
+                    "net weight": "200 g",
+                    "price": "205 cup"
+                },
+                {
+                    "id_product": "prod_007",
+                    "type": "Lentejas",
+                    "brand": "El campo",
+                    "net weight": "1 lb",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_010",
+                    "type": "Alubias",
+                    "brand": "El campo",
+                    "net weight": "1 lb",
+                    "price": "965 cup"
+                },
+                {
+                    "id_product": "prod_008",
+                    "type": "Chícharo",
+                    "brand": "El campo",
+                    "net weight": "1 lb",
+                    "price": "655 cup"
+                },
+                {
+                    "id_product": "prod_024",
+                    "type": "Frijol Colorado",
+                    "brand": "El campo",
+                    "net weight": "1 lb",
+                    "price": "910 cup"
                 }
             ]
         },
@@ -478,8 +430,6 @@
             "payment_methods": ["efectivo"],
             "products": [
                 {
-                    "salsas": [
-                        {
                             "id_product": "prod_001",
                             "type": "Pasta de tomate",
                             "brand": "Vima",
@@ -506,23 +456,15 @@
                             "brand": "De la huerta",
                             "net weight": "550 g",
                             "price": "400 cup"
-                        }
-                    ]
-                },
-                {
-                    "granos": [
+                        },
                         {
                             "id_product": "prod_011",
                             "type": "Arroz",
                             "brand": "San Diego",
                             "net weight": "1 kg",
                             "price": "700 cup"
-                        }
-                    ]
-                },
-                {
-                    "pastas": [
-                        {
+                        },
+                    {
                             "id_product": "prod_005",
                             "type": "Spaghetti",
                             "brand": "Donatella",
@@ -556,12 +498,8 @@
                             "brand": "Primo",
                             "net weight": "900 g",
                             "price": "750 cup"
-                        }
-                    ]
-                },
-                {
-                    "café": [
-                        {
+                        },
+                    {
                             "id_product": "prod_004",
                             "type": "Café",
                             "brand": "Aroma",
@@ -574,12 +512,8 @@
                             "brand": "El Dorado",
                             "net weight": "250 g",
                             "price": "2000 cup"
-                        }
-                    ]
-                },
-                {
-                    "otros": [
-                        {
+                        },
+                    {
                             "id_product": "prod_015",
                             "type": "Azúcar",
                             "brand": "Energy",
@@ -607,8 +541,6 @@
                             "net weight": "390 g",
                             "price": "550 cup"
                         }
-                    ]
-                }
             ]    
         },
         {
