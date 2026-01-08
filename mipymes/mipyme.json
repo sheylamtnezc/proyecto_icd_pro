@@ -1,0 +1,2968 @@
+{
+    "stores": [
+        {
+            "id": "tienda_001",
+            "names": "Águila 62",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.1265",
+                "long": "-82.3803"
+            },
+            "website": null,
+            "payment_methods": ["0efectivo", "pago electrónico"],
+            "currency": "cup",
+            "products": [
+                {
+                    "id_product": "prod_001",
+                    "type": "Pasta de tomate",
+                    "brand": "Vima",
+                    "net weight": "400 g",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_002",
+                    "type": "Salsa de tomate",
+                    "brand": "Mantia's",
+                    "net weight": "680 g",
+                    "price": "1600 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Vima",
+                    "net weight": "700 ml",
+                    "price": "3000 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Vima",
+                    "net weight": "450 ml",
+                    "price": "2000 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Vima",
+                    "net weight": "300 ml",
+                    "price": "1300 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Vima",
+                    "net weight": "225 ml",
+                    "price": "1300 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Celorrio",
+                    "net weight": "500 ml",
+                    "price": "1600 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Kurtz",
+                    "net weight": "887 ml",
+                    "price": "3000 cup"
+                },
+                {
+                    "id_product": "prod_004",
+                    "type": "Café",
+                    "brand": "La Llave",
+                    "net weight": "284 g",
+                    "price": "3000 cup"
+                },
+                {
+                    "id_product": "prod_004",
+                    "type": "Café",
+                    "brand": "El Morro",
+                    "net weight": "250 g",
+                    "price": "2300 cup"
+                },
+                {
+                    "id_product": "prod_004",
+                    "type": "Café",
+                    "brand": "Aroma",
+                    "net weight": "250 g",
+                    "price": "2300 cup"
+                },
+                {
+                    "id_product": "prod_005",
+                    "type": "Spaghetti",
+                    "brand": "Donatella",
+                    "net weight": "500 g",
+                    "price": "415 cup"
+                },
+                {
+                    "id_product": "prod_006",
+                    "type": "Macaroni",
+                    "brand": "Donatella",
+                    "net weight": "500 g",
+                    "price": "385 cup"
+                },
+                {
+                    "id_product": "prod_008",
+                    "type": "Chícharo",
+                    "brand": "Goya",
+                    "net weight": "397 g",
+                    "price": "850 cup"
+                },
+                {
+                    "id_product": "prod_009",
+                    "type": "Frijol Pinto",
+                    "brand": "La Merced",
+                    "net weight": "500 g",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_008",
+                    "type": "Chícharo",
+                    "brand": "La Merced",
+                    "net weight": "500 g",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_010",
+                    "type": "Alubias",
+                    "brand": "La Merced",
+                    "net weight": "500 g",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_007",
+                    "type": "Lentejas",
+                    "brand": "La Merced",
+                    "net weight": "500 g",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_011",
+                    "type": "Arroz",
+                    "brand": "Sublime",
+                    "net weight": "1 kg",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_012",
+                    "type": "Avena",
+                    "brand": "La Merced",
+                    "net weight": "400 g",
+                    "price": "650 cup"
+                },
+                {
+                    "id_product": "prod_013",
+                    "type": "Frijol Negro",
+                    "brand": "Extremjo",
+                    "net weight": "1 kg",
+                    "price": "1000 cup"
+                },
+                {
+                    "id_product": "prod_007",
+                    "type": "Lentejas",
+                    "brand": "Goya",
+                    "net weight": "397 g",
+                    "price": "850 cup"
+                },
+                {
+                    "id_product": "prod_014",
+                    "type": "Aceite vegetal",
+                    "brand": "Abali",
+                    "net weight": "900 ml",
+                    "price": "891 cup"
+                },
+                {
+                    "id_product": "prod_015",
+                    "type": "Azúcar",
+                    "brand": "Sublime",
+                    "net weight": "1 kg",
+                    "price": "800 cup"
+                },
+                {
+                    "id_product": "prod_016",
+                    "type": "Vinagre de vino",
+                    "brand": "Aldaketa",
+                    "net weight": "1 l",
+                    "price": "800 cup"
+                },
+                {
+                    "id_product": "prod_016",
+                    "type": "Vinagre de vino",
+                    "brand": "Goya",
+                    "net weight": "1 l",
+                    "price": "900 cup"
+                },
+                {
+                    "id_product": "prod_017",
+                    "type": "Vinagre de vino tinto",
+                    "brand": "Aldaketa",
+                    "net weight": "1 l",
+                    "price": "800 cup"
+                },
+                {
+                    "id_product": "prod_018",
+                    "type": "Aceite de oliva",
+                    "brand": "Vima",
+                    "net weight": "250 ml",
+                    "price": "2800 cup"
+                },
+                {
+                    "id_product": "prod_019",
+                    "type": "Leche condensada",
+                    "brand": "La Guajirita",
+                    "net weight": "390 g",
+                    "price": "600 cup"
+                },
+                {
+                    "id_product": "prod_018",
+                    "type": "Aceite de oliva",
+                    "brand": "Abril",
+                    "net weight": "1 l",
+                    "price": "6000 cup"
+                },
+                {
+                    "id_product": "prod_020",
+                    "type": "Sazón Completo",
+                    "brand": "Badia",
+                    "net weight": "340 g",
+                    "price": "2400 cup"
+                },
+                {
+                    "id_product": "prod_021",
+                    "type": "Adobo",
+                    "brand": "Badia",
+                    "net weight": "360 g",
+                    "price": "2400 cup"
+                },
+                {
+                    "id_product": "prod_022",
+                    "type": "Sal",
+                    "brand": "Marcum",
+                    "net weight": "737 g",
+                    "price": "750 cup"
+                }
+            ]
+        },
+        {
+            "id": "tienda_002",
+            "names": "La Moderna",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.133563",
+                "long": "-82.367312"
+            },
+            "website": "None",
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "id_product": "prod_001",
+                    "type": "Pasta de tomate",
+                    "brand": "Lucy",
+                    "net weight": "400 g",
+                    "price": "450 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Nezka",
+                    "net weight": "490 ml",
+                    "price": "700 cup"
+                },
+                {
+                    "id_product": "prod_011",
+                    "type": "Arroz",
+                    "brand": "Sublime",
+                    "net weight": "1 kg",
+                    "price": "570 cup"
+                },
+                {
+                    "id_product": "prod_013",
+                    "type": "Frijol Negro",
+                    "brand": "None",
+                    "net weight": "500 g",
+                    "price": "800 cup"
+                },
+                {
+                    "id_product": "prod_005",
+                    "type": "Spaghetti",
+                    "brand": "None",
+                    "net weight": "400 g",
+                    "price": "320 cup"
+                },
+                {
+                    "id_product": "prod_022",
+                    "type": "Sal",
+                    "brand": "Polasal",
+                    "net weight": "1 kg",
+                    "price": "500 cup"
+                },
+                {
+                    "id_product": "prod_015",
+                    "type": "Azúcar",
+                    "brand": "Sublime",
+                    "net weight": "1 kg",
+                    "price": "630 cup"
+                },
+                {
+                    "id_product": "prod_023",
+                    "type": "Leche en polvo",
+                    "brand": "None",
+                    "net weight": "1 kg",
+                    "price": "2000 cup"
+                },
+                {
+                    "id_product": "prod_014",
+                    "type": "Aceite vegetal",
+                    "brand": "Abali",
+                    "net weight": "900 ml",
+                    "price": "980 cup"
+                },
+                {
+                    "id_product": "prod_016",
+                    "type": "Vinagre de vino",
+                    "brand": "Deleite",
+                    "net weight": "750 ml",
+                    "price": "300 cup"
+                }
+            ]
+        },
+        {
+            "id": "tienda_003",
+            "names": "Mercado Mimosa",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.133437",
+                "long": "-82.368063"
+            },
+            "website": "https://mercadomimosa.com/index.php",
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "id_product": "prod_002",
+                    "type": "Salsa de tomate",
+                    "brand": "Mantia's",
+                    "net weight": "680 g",
+                    "price": "1600 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Vima",
+                    "net weight": "225 ml",
+                    "price": "1255 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Kurtz",
+                    "net weight": "887 ml",
+                    "price": "2667 cup"
+                },
+                {
+                    "id_product": "prod_003",
+                    "type": "Mayonesa",
+                    "brand": "Vima",
+                    "net weight": "300 ml",
+                    "price": "1330 cup"
+                },
+                {
+                    "id_product": "prod_006",
+                    "type": "Macaroni",
+                    "brand": "Jolyni",
+                    "net weight": "450 g",
+                    "price": "480 cup"
+                },
+                {
+                    "id_product": "prod_006",
+                    "type": "Macaroni",
+                    "brand": "Jolyni",
+                    "net weight": "200 g",
+                    "price": "205 cup"
+                },
+                {
+                    "id_product": "prod_007",
+                    "type": "Lentejas",
+                    "brand": "El campo",
+                    "net weight": "1 lb",
+                    "price": "750 cup"
+                },
+                {
+                    "id_product": "prod_010",
+                    "type": "Alubias",
+                    "brand": "El campo",
+                    "net weight": "1 lb",
+                    "price": "965 cup"
+                },
+                {
+                    "id_product": "prod_008",
+                    "type": "Chícharo",
+                    "brand": "El campo",
+                    "net weight": "1 lb",
+                    "price": "655 cup"
+                },
+                {
+                    "id_product": "prod_024",
+                    "type": "Frijol Colorado",
+                    "brand": "El campo",
+                    "net weight": "1 lb",
+                    "price": "910 cup"
+                }
+            ]
+        },
+        {
+            "id": "tienda_004",
+            "names": "Salud",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.133437",
+                "long": "-82.367438"
+            },
+            "currency": ["cup"],
+            "website": null,
+            "payment_methods": ["efectivo"],
+            "products": [
+                {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Vima",
+                            "net weight": "400 g",
+                            "price": "550 cup"
+                        },
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Virshaan",
+                            "net weight": "400 g",
+                            "price": "500 cup"
+                        },
+                        {
+                            "id_product": "prod_025",
+                            "type": "Pasta de bocadito",
+                            "brand": "Aldaketa",
+                            "net weight": "490 ml",
+                            "price": "1700 cup"
+                        },
+                        {
+                            "id_product": "prod_002",
+                            "type": "Salsa de tomate",
+                            "brand": "De la huerta",
+                            "net weight": "550 g",
+                            "price": "400 cup"
+                        },
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "San Diego",
+                            "net weight": "1 kg",
+                            "price": "700 cup"
+                        },
+                    {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Donatella",
+                            "net weight": "500 g",
+                            "price": "350 cup"
+                        },
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Primo",
+                            "net weight": "900 g",
+                            "price": "750 cup"
+                        },
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Barilla",
+                            "net weight": "500 g",
+                            "price": "410 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Barilla",
+                            "net weight": "500 g",
+                            "price": "410 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Primo",
+                            "net weight": "900 g",
+                            "price": "750 cup"
+                        },
+                    {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "Aroma",
+                            "net weight": "250 g",
+                            "price": "1800 cup"
+                        },
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "El Dorado",
+                            "net weight": "250 g",
+                            "price": "2000 cup"
+                        },
+                    {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Energy",
+                            "net weight": "1 kg",
+                            "price": "650 cup"
+                        },
+                        {
+                            "id_product": "prod_014",
+                            "type": "Aceite vegetal",
+                            "brand": "Vima",
+                            "net weight": "1 l",
+                            "price": "990 cup"
+                        },
+                        {
+                            "id_product": "prod_022",
+                            "type": "Sal",
+                            "brand": "Potiguar",
+                            "net weight": "1 kg",
+                            "price": "400 cup"
+                        },
+                        {
+                            "id_product": "prod_019",
+                            "type": "Leche condensada",
+                            "brand": "La Guajirita",
+                            "net weight": "390 g",
+                            "price": "550 cup"
+                        }
+            ]    
+        },
+        {
+            "id": "tienda_005",
+            "names": "Ditu",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.133852",
+                "long": "-82.375716"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "1",
+                            "type": "Pasta de tomate",
+                            "brand": "Vima",
+                            "net weight": "400 g",
+                            "price": "550 cup"
+                        },
+                        {
+                            "id_product": "6",
+                            "type": "Salsa de tomate",
+                            "brand": "Didi",
+                            "net weight": "390 g",
+                            "price": "450 cup"
+                        },
+                        {
+                            "id_product": "6",
+                            "type": "Salsa de tomate",
+                            "brand": "Didi",
+                            "net weight": "400 g",
+                            "price": "450 cup"
+                        },
+                        {
+                            "id_product": "6",
+                            "type": "Mayonesa",
+                            "brand": "Kris",
+                            "net weight": "230 g",
+                            "price": "700 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "6",
+                            "type": "Arroz",
+                            "brand": "Namorado",
+                            "net weight": "1 kg",
+                            "price": "630 cup"
+                        },
+                        {
+                            "id_product": "16",
+                            "type": "Frijol Negro",
+                            "brand": "Carolina",
+                            "net weight": "450 g",
+                            "price": "650 cup"
+                        },
+                        {
+                            "id_product": "16",
+                            "type": "Frijoles colorados",
+                            "brand": "Grues",
+                            "net weight": "400 g",
+                            "price": "650 cup"
+                        }
+                    ]
+                },
+                {
+                    "coffee": [
+                        {
+                            "id_product": "11",
+                            "type": "Café",
+                            "brand": "Serrano",
+                            "net weight": "500 g",
+                            "price": "3000 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "23",
+                            "type": "Harina de Trigo",
+                            "brand": "Haricaman",
+                            "net weight": "1 kg",
+                            "price": "1300 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_006",
+            "names": "Mercadito",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.135856",
+                "long": "-82.366753"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Vima",
+                            "net weight": "400 g",
+                            "price": "590 cup"
+                        },
+                        {
+                            "id_product": "prod_002",
+                            "type": "Salsa de tomate",
+                            "brand": "Differ",
+                            "net weight": "200 g",
+                            "price": "380 cup"
+                        },
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Victoria",
+                            "net weight": "400 g",
+                            "price": "490 cup"
+                        },
+                        {
+                            "id_product": "prod_025",
+                            "type": "Pasta de bocadito",
+                            "brand": "Aldaketa",
+                            "net weight": "465 ml",
+                            "price": "1590 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Cosami",
+                            "net weight": "300 ml",
+                            "price": "910 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Italpasta",
+                            "net weight": "900 g",
+                            "price": "670 cup"
+                        },
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Primo",
+                            "net weight": "400 g",
+                            "price": "350 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Primo",
+                            "net weight": "900 g",
+                            "price": "670 cup"
+                        }
+                    ]
+                },
+                {
+                    "café": [
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "La Carreta",
+                            "net weight": "283 g",
+                            "price": "2290 cup"
+                        },
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "Sebraz",
+                            "net weight": "250 g",
+                            "price": "1490 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Sublime",
+                            "net weight": "1 kg",
+                            "price": "690 cup"
+                        },
+                        {
+                            "id_product": "prod_007",
+                            "type": "Lentejas",
+                            "brand": "Yellow Elephant",
+                            "net weight": "400 g",
+                            "price": "690 cup"
+                        },
+                        {
+                            "id_product": "prod_008",
+                            "type": "Chícharo",
+                            "brand": "Yellow Elephant",
+                            "net weight": "400 g",
+                            "price": "690 cup"
+                        },
+                        {
+                            "id_product": "prod_024",
+                            "type": "Frijol Colorado",
+                            "brand": "Yellow Elephant",
+                            "net weight": "400 g",
+                            "price": "690 cup"
+                        },
+                        {
+                            "id_product": "prod_026",
+                            "type": "Garbanzos",
+                            "brand": "Yellow Elephant",
+                            "net weight": "400 g",
+                            "price": "690 cup"
+                        },
+                        {
+                            "id_product": "prod_008",
+                            "type": "Chícharo",
+                            "brand": "Carolina",
+                            "net weight": "450 g",
+                            "price": "690 cup"
+                        },
+                        {
+                            "id_product": "prod_012",
+                            "type": "Avena",
+                            "brand": "Goya",
+                            "net weight": "340 g",
+                            "price": "790 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_022",
+                            "type": "Sal",
+                            "brand": "Marcum",
+                            "net weight": "737 g",
+                            "price": "610 cup"
+                        },
+                        {
+                            "id_product": "prod_022",
+                            "type": "Sal",
+                            "brand": "Polasal",
+                            "net weight": "1 kg",
+                            "price": "490 cup"
+                        },
+                        {
+                            "id_product": "prod_021",
+                            "type": "Adobo",
+                            "brand": "Badia",
+                            "net weight": "360 g",
+                            "price": "1510 cup"
+                        },
+                        {
+                            "id_product": "prod_020",
+                            "type": "Sazón Completo",
+                            "brand": "Badia",
+                            "net weight": "100 g",
+                            "price": "790 cup"
+                        },
+                        {
+                            "id_product": "prod_027",
+                            "type": "Mojo Criollo",
+                            "brand": "Badia",
+                            "net weight": "300 ml",
+                            "price": "1460 cup"
+                        },
+                        {
+                            "id_product": "prod_028",
+                            "type": "Naranja Agria",
+                            "brand": "Badia",
+                            "net weight": "300 ml",
+                            "price": "790 cup"
+                        },
+                        {
+                            "id_product": "prod_014",
+                            "type": "Aceite vegetal",
+                            "brand": "Ada",
+                            "net weight": "900 ml",
+                            "price": "990 cup"
+                        },
+                        {
+                            "id_product": "prod_029",
+                            "type": "Harina de Trigo",
+                            "brand": "Fresko",
+                            "net weight": "1 kg",
+                            "price": "790 cup"
+                        },
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Energy",
+                            "net weight": "1 kg",
+                            "price": "670 cup"
+                        },
+                        {
+                            "id_product": "prod_019",
+                            "type": "Leche condensada",
+                            "brand": "Dairy Sky",
+                            "net weight": "390 g",
+                            "price": "560 cup"
+                        },
+                        {
+                            "id_product": "prod_030",
+                            "type": "Leche evaporada",
+                            "brand": "TropiGusto",
+                            "net weight": "360 ml",
+                            "price": "690 cup"
+                        },
+                        {
+                            "id_product": "prod_031",
+                            "type": "Galletas de soda",
+                            "brand": "Saltitacos",
+                            "net weight": "595 g",
+                            "price": "990 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_007",
+            "names": "Belascoaín",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.133512",
+                "long": "-82.369675"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Virshaan",
+                            "net weight": "400 g",
+                            "price": "435 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Celorrio",
+                            "net weight": "500 ml",
+                            "price": "1400 cup"
+                        },
+                        {
+                            "id_product": "prod_025",
+                            "type": "Pasta de bocadito",
+                            "brand": "Aldaketa",
+                            "net weight": "490 ml",
+                            "price": "1650 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Sam",
+                            "net weight": "1 kg",
+                            "price": "600 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Tu Pasta",
+                            "net weight": "500 g",
+                            "price": "350 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Donatella",
+                            "net weight": "500 g",
+                            "price": "330 cup"
+                        }
+                    ]
+                },
+                {
+                    "coffee": [
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "Aroma",
+                            "net weight": "250 g",
+                            "price": "1800 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Sublime",
+                            "net weight": "1 kg",
+                            "price": "600 cup"
+                        },
+                        {
+                            "id_product": "prod_014",
+                            "type": "Aceite vegetal",
+                            "brand": "Vima",
+                            "net weight": "1 l",
+                            "price": "990 cup"
+                        },
+                        {
+                            "id_product": "prod_031",
+                            "type": "Galletas de soda",
+                            "brand": "Saltitacos",
+                            "net weight": "595 g",
+                            "price": "1050 cup"
+                        },
+                        {
+                            "id_product": "prod_029",
+                            "type": "Harina de Trigo",
+                            "brand": "Sol de Oro",
+                            "net weight": "1 kg",
+                            "price": "700 cup"
+                        },
+                        {
+                            "id_product": "prod_016",
+                            "type": "Vinagre de vino",
+                            "brand": "Aldaketa",
+                            "net weight": "750 ml",
+                            "price": "730 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_008",
+            "names": "La Criolla",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.138889",
+                "long": "-82.377649"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_002",
+                            "type": "Salsa de tomate",
+                            "brand": "Mantia's",
+                            "net weight": "680 g",
+                            "price": "1600 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Kurtz",
+                            "net weight": "887 ml",
+                            "price": "2500 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Sublime",
+                            "net weight": "1 kg",
+                            "price": "700 cup"
+                        },
+                        {
+                            "id_product": "prod_024",
+                            "type": "Frijol Colorado",
+                            "brand": "La Cata",
+                            "net weight": "500 g",
+                            "price": "840 cup"
+                        },
+                        {
+                            "id_product": "prod_013",
+                            "type": "Frijol Negro",
+                            "brand": "La Cata",
+                            "net weight": "500 g",
+                            "price": "800 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Lucy",
+                            "net weight": "500 g",
+                            "price": "350 cup"
+                        },
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Fresko",
+                            "net weight": "500 g",
+                            "price": "350 cup"
+                        }
+                    ]
+                },
+                {
+                    "coffee": [
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "Caffé Testa",
+                            "net weight": "250 g",
+                            "price": "1800 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Fresko",
+                            "net weight": "1 kg",
+                            "price": "750 cup"
+                        },
+                        {
+                            "id_product": "prod_027",
+                            "type": "Mojo Criollo",
+                            "brand": "Goya",
+                            "net weight": "355 ml",
+                            "price": "1100 cup"
+                        },
+                        {
+                            "id_product": "prod_028",
+                            "type": "Naranja Agria",
+                            "brand": "Goya",
+                            "net weight": "355 ml",
+                            "price": "1200 cup"
+                        },
+                        {
+                            "id_product": "prod_021",
+                            "type": "Adobo",
+                            "brand": "Goya",
+                            "net weight": "225 g",
+                            "price": "1100 cup"
+                        },
+                        {
+                            "id_product": "prod_020",
+                            "type": "Sazón Completo",
+                            "brand": "Goya",
+                            "net weight": "312 g",
+                            "price": "2400 cup"
+                        },
+                        {
+                            "id_product": "prod_016",
+                            "type": "Vinagre de vino",
+                            "brand": "Aldaketa",
+                            "net weight": "750 ml",
+                            "price": "800 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_009",
+            "names": "Ivonne",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.138713",
+                "long": "-82.376575"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Virshaan",
+                            "net weight": "400 g",
+                            "price": "550 cup"
+                        },
+                        {
+                            "id_product": "prod_025",
+                            "type": "Pasta de bocadito",
+                            "brand": "Aldaketa",
+                            "net weight": "490 ml",
+                            "price": "1900 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Cosami",
+                            "net weight": "300 g",
+                            "price": "1000 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Polidinho",
+                            "net weight": "1 kg",
+                            "price": "750 cup"
+                        },
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Virshaan",
+                            "net weight": "1 kg",
+                            "price": "750 cup"
+                        }
+                    ]
+                },
+                {
+                    "coffee": [
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "El Dorado",
+                            "net weight": "250 g",
+                            "price": "2300 cup"
+                        },
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "La Llave",
+                            "net weight": "250 g",
+                            "price": "2800 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Lucy",
+                            "net weight": "500 g",
+                            "price": "370 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Barilla",
+                            "net weight": "500 g",
+                            "price": "380 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Energy",
+                            "net weight": "1 kg",
+                            "price": "750 cup"
+                        },
+                        {
+                            "id_product": "prod_019",
+                            "type": "Leche condensada",
+                            "brand": "La Granjera",
+                            "net weight": "390 g",
+                            "price": "560 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_010",
+            "names": "Small Sliders",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.133847",
+                "long": "-82.366200"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Vima",
+                            "net weight": "400 g",
+                            "price": "550 cup"
+                        },
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Virshaan",
+                            "net weight": "400 g",
+                            "price": "600 cup"
+                        },
+                        {
+                            "id_product": "prod_002",
+                            "type": "Salsa de tomate",
+                            "brand": "De la huerta",
+                            "net weight": "530 g",
+                            "price": "300 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Virshaan",
+                            "net weight": "1 kg",
+                            "price": "650 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas":  [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "GustoMas",
+                            "net weight": "400 g",
+                            "price": "370 cup"
+                        },
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Capri's",
+                            "net weight": "900 g",
+                            "price": "450 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Assaada",
+                            "net weight": "400 g",
+                            "price": "400 cup"
+                        }
+                    ]
+                },
+                {
+                    "coffees": [
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "Sublime",
+                            "net weight": "400 g",
+                            "price": "1700 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_016",
+                            "type": "Vinagre de vino",
+                            "brand": "Deleite",
+                            "net weight": "1 l",
+                            "price": "350 cup"
+                        },
+                        {
+                            "id_product": "prod_014",
+                            "type": "Aceite vegetal",
+                            "brand": "La Reina",
+                            "volume": "1 l",
+                            "price": "950 cup"
+                        },
+                        {
+                            "id_product": "prod_027",
+                            "type": "Mojo Criollo",
+                            "brand": "Badia",
+                            "volume": "74 ml",
+                            "price": "800 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_011",
+            "names": "Tarecolandia",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.135819",
+                "long": "-82.362965"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Virshaan",
+                            "net weight": "400 g",
+                            "price": "500 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Kris",
+                            "net weight": "225 ml",
+                            "price": "500 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Virshaan",
+                            "net weight": "1 kg",
+                            "price": "750 cup"
+                        },
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Sam",
+                            "net weight": "1 kg",
+                            "price": "720 cup"
+                        },
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "San Diego",
+                            "net weight": "1 kg",
+                            "price": "750 cup"
+                        },
+                        {
+                            "id_product": "prod_013",
+                            "type": "Frijol Negro",
+                            "brand": "Sublime",
+                            "net weight": "1 kg",
+                            "price": "1000 cup"
+                        },
+                        {
+                            "id_product": "prod_007",
+                            "type": "Lentejas",
+                            "brand": "La Cata",
+                            "net weight": "500 g",
+                            "price": "1200 cup"
+                        },
+                        {
+                            "id_product": "prod_012",
+                            "type": "Avena",
+                            "brand": "La Merced",
+                            "net weight": "900 g",
+                            "price": "650 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Zonia",
+                            "net weight": "500 g",
+                            "price": "400 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Spaghetti",
+                            "brand": "Donatella",
+                            "net weight": "500 g",
+                            "price": "390 cup"
+                        }
+                    ]
+                },
+                {
+                    "coffees": [
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "Aroma",
+                            "net weight": "250 g",
+                            "price": "2100 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Silver Foods",
+                            "net weight": "1 kg",
+                            "price": "760 cup"
+                        },
+                        {
+                            "id_product": "prod_016",
+                            "type": "Vinagre de vino",
+                            "brand": "Roy",
+                            "net weight": "1 l",
+                            "price": "360 cup"
+                        },
+                        {
+                            "id_product": "prod_022",
+                            "type": "Sal",
+                            "brand": "Polasal",
+                            "net weight": "1 kg",
+                            "price": "550 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_012",
+            "names": "",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.137412",
+                "long": "-82.364282"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Virshaan",
+                            "net weight": "400 g",  
+                            "price": "520 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Mayo plus",
+                            "net weight": "540 g",
+                            "price": "970 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Cies",
+                            "net weight": "1 kg",
+                            "price": "720 cup"
+                        },
+                        {
+                            "id_product": "prod_013",
+                            "type": "Frijol Negro",
+                            "brand": "Caldo Carioca", 
+                            "net weight": "1 kg",
+                            "price": "1060 cup"
+                        },
+                        {
+                            "id_product": "prod_013",
+                            "type": "Frijol Negro",
+                            "brand": "Gaiteiro",
+                            "net weight": "1 kg",
+                            "price": "500 cup"
+                        },
+                        {
+                            "id_product": "prod_013",
+                            "type": "Frijol Negro",
+                            "brand": "Del Campo",
+                            "net weight": "",
+                            "price": "910 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Galo",
+                            "net weight": "400 g",
+                            "price": "390 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Galo",
+                            "net weight": "400 g",
+                            "price": "390 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_029",
+                            "type": "Harina de Trigo",
+                            "brand": "Sol de Oro",
+                            "net weight": "1 kg",
+                            "price": "660 cup"
+                        },
+                        {
+                            "id_product": "prod_016",
+                            "type": "Vinagre de vino",
+                            "brand": "Eliges",
+                            "volume": "1 l",
+                            "price": "780 cup"
+                        },
+                        {
+                            "id_product": "prod_020",
+                            "type": "Sazón Completo",
+                            "brand": "Nezka",
+                            "volume": "",
+                            "price": "1100 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_013",
+            "names": "La Conchita",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.137881",
+                "long": "-82.364075"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": null,
+                            "net weight": "1 kg",
+                            "price": "650 cup"
+                        },
+                        {
+                            "id_product": "prod_013",
+                            "type": "Frijol Negro",
+                            "brand": null,
+                            "net weight": null,
+                            "price": "850 cup"
+                        },
+                        {
+                            "id_product": "prod_026",
+                            "type": "Garbanzos",
+                            "brand": null,
+                            "net weight": null,
+                            "price": "750 cup"
+                        },
+                        {
+                            "id_product": "prod_008",
+                            "type": "Chícharo",
+                            "brand": null,
+                            "net weight": null,
+                            "price": "680 cup"
+                        }
+                    ]
+                },
+                {
+                    "coffee": [
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": null,
+                            "net weight": null,
+                            "price": "2000 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": null,
+                            "net weight": null,
+                            "price": "330 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": null,
+                            "net weight": null,
+                            "price": "330 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": null,
+                            "net weight": null,
+                            "price": "650 cup"
+                        },
+                        {
+                            "id_product": "prod_023",
+                            "type": "Leche en polvo",
+                            "brand": null,
+                            "net weight": null,
+                            "price": "1675 cup"
+                        },
+                        {
+                            "id_product": "prod_014",
+                            "type": "Aceite vegetal",
+                            "brand": null,
+                            "net weight": null,
+                            "price": "990 cup"
+                        },
+                        {
+                            "id_product": "prod_019",
+                            "type": "Leche condensada",
+                            "brand": null,
+                            "net weight": null,
+                            "price": "500 cup"
+                        },
+                        {
+                            "id_product": "prod_030",
+                            "type": "Leche evaporada",
+                            "brand": null,
+                            "net weight": null,
+                            "price": "580 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_014",
+            "names": "San Nicolas",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.136806",
+                "long": "-82.364272"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Virshaan",
+                            "net weight": "400 g",
+                            "price": "550 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "San Diego",
+                            "net weight": "1 kg",
+                            "price": "600 cup"
+                        },
+                        {
+                            "id_product": "prod_024",
+                            "type": "Frijol Colorado",
+                            "brand": "Del Campo",
+                            "net weight": "",
+                            "price": "760 cup"
+                        },
+                        {
+                            "id_product": "prod_008",
+                            "type": "Chícharo",
+                            "brand": "La Merced",
+                            "net weight": "",
+                            "price": "850 cup"
+                        },
+                        {
+                            "id_product": "prod_010",
+                            "type": "Alubias",
+                            "brand": "Don Jose",
+                            "net weight": "",
+                            "price": "600 cup"
+                        },
+                        {
+                            "id_product": "prod_007",
+                            "type": "Lentejas",
+                            "brand": "Cister",
+                            "net weight": "500 g",
+                            "price": "730 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Delicia",
+                            "net weight": "400 g",
+                            "price": "400 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "La Parma",
+                            "net weight": "400 g",
+                            "price": "400 cup"
+                        }
+                    ]
+                },
+                {
+                    "coffee": [
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "La Llave",
+                            "net weight": "",
+                            "price": "2800 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_022",
+                            "type": "Sal",
+                            "brand": "Eliges",
+                            "net weight": "1 kg",
+                            "price": "500 cup"
+                        },
+                        {
+                            "id_product": "prod_016",
+                            "type": "Vinagre de vino",
+                            "brand": "Deleite",
+                            "net weight": "1 l",
+                            "price": "400 cup"
+                        },
+                        {
+                            "id_product": "prod_029",
+                            "type": "Harina de Trigo",
+                            "brand": "Sol de Oro",
+                            "net weight": "1 kg",
+                            "price": "700 cup"
+                        },
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Energy",
+                            "net weight": "1 kg",
+                            "price": "750 cup"
+                        },
+                        {
+                            "id_product": "prod_030",
+                            "type": "Leche evaporada",
+                            "brand": "Guama",
+                            "net weight": "300 ml",
+                            "price": "600 cup"
+                        },
+                        {
+                            "id_product": "prod_014",
+                            "type": "Aceite vegetal",
+                            "brand": "Hysa",
+                            "net weight": "1 l",
+                            "price": "990 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_015",
+            "names": "El Modelo",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.136771",
+                "long": "-82.364197"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Castellum",
+                            "net weight": "400 g",
+                            "price": "500 cup"
+                        },
+                        {
+                            "id_product": "prod_002",
+                            "type": "Salsa de tomate",
+                            "brand": "Vima",
+                            "net weight": "390 g",
+                            "price": "630 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Vima",
+                            "net weight": "300 ml",
+                            "price": "800 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Findy",
+                            "net weight": "540 g",
+                            "price": "1500 cup"
+                        }
+                    ]
+                },
+                {
+                    "coffees": [
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "Buenos Días",
+                            "net weight": "750 g",
+                            "price": "1600 cup"
+                        },
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "Puente",
+                            "net weight": "250 g",
+                            "price": "1500 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Oba",
+                            "net weight": "500 g",
+                            "price": "350 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Oba",
+                            "net weight": "400 g",
+                            "price": "340 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "San Diego",
+                            "net weight": "1 kg",
+                            "price": "700 cup"
+                        },
+                        {
+                            "id_product": "prod_013",
+                            "type": "Frijol Negro",
+                            "brand": "Cister",
+                            "net weight": "500 g",
+                            "price": "650 cup"
+                        },
+                        {
+                            "id_product": "prod_012",
+                            "type": "Avena",
+                            "brand": "Granvita",
+                            "net weight": "700 g",
+                            "price": "850 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_021",
+                            "type": "Adobo",
+                            "brand": "Goya",
+                            "net weight": "240 g",
+                            "price": "1350 cup"
+                        },
+                        {
+                            "id_product": "prod_016",
+                            "type": "Vinagre de vino",
+                            "brand": "Aldaketa",
+                            "net weight": "750 ml",
+                            "price": "700 cup"
+                        },
+                        {
+                            "id_product": "prod_017",
+                            "type": "Vinagre de vino tinto",
+                            "brand": "Aldaketa",
+                            "net weight": "750 ml",
+                            "price": "870 cup"
+                        },
+                        {
+                            "id_product": "prod_022",
+                            "type": "Sal",
+                            "brand": "Eliges",
+                            "net weight": "1 kg",
+                            "price": "650 cup"
+                        },
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Canoro",
+                            "net weight": "1 kg",
+                            "price": "700 cup"
+                        },
+                        {
+                            "id_product": "prod_014",
+                            "type": "Aceite vegetal",
+                            "brand": "Fresko",
+                            "net weight": "1 l",
+                            "price": "990 cup"
+                        },
+                        {
+                            "id_product": "prod_019",
+                            "type": "Leche condensada",
+                            "brand": "HollandPark",
+                            "net weight": "390 g",
+                            "price": "600 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_016",
+            "names": "Sorpresas",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.132403",
+                "long": "-82.364889"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Vima",
+                            "net weight": "400 g",
+                            "price": "610 cup"
+                        },
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Castellum",
+                            "net weight": "400 g",
+                            "price": "450 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Celorrio",
+                            "net weight": "500 ml",
+                            "price": "1600 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Cepeta",
+                            "net weight": "500 g",
+                            "price": "1200 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Donatella",
+                            "net weight": "500 g",
+                            "price": "350 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "PortoBello",
+                            "net weight": "400 g",
+                            "price": "380 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Vivarro",
+                            "net weight": "1 kg",
+                            "price": "650 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_029",
+                            "type": "Harina de Trigo",
+                            "brand": "Fresko",
+                            "net weight": "1 kg",
+                            "price": "700 cup"
+                        },
+                        {
+                            "id_product": "prod_022",
+                            "type": "Sal",
+                            "brand": "Potiguar",
+                            "net weight": "1 kg",
+                            "price": "550 cup"
+                        },
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Mirante",
+                            "net weight": "1 kg",
+                            "price": "670 cup"
+                        },
+                        {
+                            "id_product": "prod_016",
+                            "type": "Vinagre de vino",
+                            "brand": "Deleite",
+                            "net weight": "1 l",
+                            "price": "350 cup"
+                        },
+                        {
+                            "id_product": "prod_031",
+                            "type": "Galletas de soda",
+                            "brand": "Saltitacos",
+                            "net weight": "595 g",
+                            "price": "1260 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_017",
+            "names": "El Bodegon de Aguila",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.136282",
+                "long": "-82.362215"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Finetom",
+                            "net weight": "400 g",
+                            "price": "390 cup"
+                        },
+                        {
+                            "id_product": "prod_002",
+                            "type": "Salsa de tomate",
+                            "brand": "Conchita",
+                            "net weight": "425 g",
+                            "price": "490 cup"
+                        },
+                        {
+                            "id_product": "prod_002",
+                            "type": "Salsa de tomate",
+                            "brand": "Vima",
+                            "net weight": "390 g",
+                            "price": "780 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Nezka",
+                            "net weight": "500 g",
+                            "price": "1200 cup"
+                        }
+                    ]
+                },
+                {
+                    "café": [
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "El Morro",
+                            "net weight": "250 g",
+                            "price": "2200 cup"
+                        },
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "Paraná",
+                            "net weight": "250 g",
+                            "price": "1550 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_026",
+                            "type": "Garbanzos",
+                            "brand": "Marcos",
+                            "net weight": "500 g",
+                            "price": "770 cup"
+                        },
+                        {
+                            "id_product": "prod_013",
+                            "type": "Frijol Negro",
+                            "brand": "Marcos",
+                            "net weight": "500 g",
+                            "price": "770 cup"
+                        },
+                        {
+                            "id_product": "prod_010",
+                            "type": "Alubias",
+                            "brand": "Marcos",
+                            "net weight": "500 g",
+                            "price": "770 cup"
+                        },
+                        {
+                            "id_product": "prod_008",
+                            "type": "Chícharo",
+                            "brand": "Del Campo",
+                            "net weight": "1 lb",
+                            "price": "650 cup"
+                        },
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": null,
+                            "net weight": "1 kg",
+                            "price": "330 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_022",
+                            "type": "Sal",
+                            "brand": "Potiguar",
+                            "net weight": "1 kg",
+                            "price": "570 cup"
+                        },
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Energy",
+                            "net weight": "1 kg",
+                            "price": "650 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Harina de Trigo",
+                            "brand": "Haricaman",
+                            "net weight": "2 kg",
+                            "price": "1500 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_018",
+            "names": "Las Flores",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.132299",
+                "long": "-82.366960"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Virshaan",
+                            "net weight": "400 g",
+                            "price": "400 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Conchita",
+                            "net weight": "650 g",
+                            "price": "2000 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Pasta de bocadito",
+                            "brand": "Aldaketa",
+                            "net weight": "465 ml",
+                            "price": "1800 cup"
+                        },
+                        {
+                            "id_product": "prod_002",
+                            "type": "Salsa de tomate",
+                            "brand": "Conchita",
+                            "net weight": "435 g",
+                            "price": "650 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Ada",
+                            "net weight": "400 g",
+                            "price": "320 cup"
+                        },
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Gonca",
+                            "net weight": "500 g",
+                            "price": "300 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Patéko",
+                            "net weight": "1 kg",
+                            "price": "650 cup"
+                        }
+                    ]
+                },
+                {
+                    "café": [
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "Fitoo",
+                            "net weight": "250 g",
+                            "price": "1700 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_0",
+                            "type": "Vinagre de vino",
+                            "brand": "",
+                            "net weight": "1 l",
+                            "price": "320 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Naranja Agria",
+                            "brand": "",
+                            "net weight": "1 l",
+                            "price": "320 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Mojo Criollo",
+                            "brand": "",
+                            "net weight": "1 l",
+                            "price": "320 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Leche condensada",
+                            "brand": "Guamá",
+                            "net weight": "390 g",
+                            "price": "550 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Leche condensada",
+                            "brand": "Zivel",
+                            "net weight": "390 g",
+                            "price": "570 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Leche evaporada",
+                            "brand": "Guamá",
+                            "net weight": "390 g",
+                            "price": "550 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_019",
+            "names": "La Esquina Cubana",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.132574",
+                "long": "-82.365371"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Fresko",
+                            "net weight": "400 g",
+                            "price": "500 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Fresko",
+                            "net weight": "500 g",
+                            "price": "1200 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Diva",
+                            "net weight": "400 g",
+                            "price": "320 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Donatella",
+                            "net weight": "400 g",
+                            "price": "400 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Virshaan",
+                            "net weight": "1 kg",
+                            "price": "650 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Frijol Negro",
+                            "brand": "",
+                            "net weight": "1 kg",
+                            "price": "900 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_0",
+                            "type": "Azúcar",
+                            "brand": "Canoro",
+                            "net weight": "1 kg",
+                            "price": "700 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Galletas de soda",
+                            "brand": "Saltitacos",
+                            "net weight": "595 g",
+                            "price": "1200 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Leche condensada",
+                            "brand": "La Guajirita",
+                            "net weight": "390 g",
+                            "price": "550 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Harina de Trigo",
+                            "brand": "Doña María",
+                            "net weight": "1 kg",
+                            "price": "650 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_020",
+            "names": "Cid",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.135173",
+                "long": "-82.365119"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Vima",
+                            "net weight": "400 g",
+                            "price": "500 cup"
+                        },
+                        {
+                            "id_product": "prod_025",
+                            "type": "Pasta de bocadito",
+                            "brand": "Aldaketa",
+                            "net weight": "465 ml",
+                            "price": "1650 cup"
+                        }
+                ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Donatella",
+                            "net weight": "500 g",
+                            "price": "360 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Lucy",
+                            "net weight": "500 g",
+                            "price": "380 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Dona Iza",
+                            "net weight": "1 kg",
+                            "price": "650 cup"
+                        },
+                        {
+                            "id_product": "prod_013",
+                            "type": "Frijol Negro",
+                            "brand": "Decarli",
+                            "net weight": "1 kg",  
+                            "price": "990 cup"
+                        },
+                        {
+                            "id_product": "prod_007",
+                            "type": "Lentejas",
+                            "brand": "Cister",
+                            "net weight": "500 g",
+                            "price": "750 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Canoro",
+                            "net weight": "1 kg",
+                            "price": "720 cup"
+                        },
+                        {
+                            "id_product": "prod_019",
+                            "type": "Leche condensada",
+                            "brand": "Pronto",
+                            "net weight": "300 g",
+                            "price": "650 cup"
+                        },
+                        {
+                            "id_product": "prod_019",
+                            "type": "Leche condensada",
+                            "brand": "Zivel",
+                            "net weight": "390 g",
+                            "price": "560 cup"
+                        },
+                        {
+                            "id_product": "prod_016",
+                            "type": "Vinagre de vino",
+                            "brand": "Aldaketa",
+                            "net weight": "1 l",
+                            "price": "780 cup"
+                        },
+                        {
+                            "id_product": "prod_021",
+                            "type": "Adobo",
+                            "brand": "Goya",
+                            "net weight": "240 g",
+                            "price": "950 cup"
+                        },
+                        {
+                            "id_product": "prod_031",
+                            "type": "Galletas de soda",
+                            "brand": "Saltitacos",
+                            "net weight": "595 g",
+                            "price": "1330 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_021",
+            "names": "El Mercadito",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.141462",
+                "long": "-82.364424"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Vima",
+                            "net weight": "400 g",
+                            "price": "670 cup"
+                        },
+                        {
+                            "id_product": "prod_025",
+                            "type": "Pasta de bocadito",
+                            "brand": "Azotea",
+                            "net weight": "465 ml",
+                            "price": "1880 cup"
+                        },
+                        {
+                            "id_product": "prod_025",
+                            "type": "Mayonesa",
+                            "brand": "HollandPark",
+                            "net weight": "500 ml",
+                            "price": "840 cup"
+                        },
+                        {
+                            "id_product": "prod_002",
+                            "type": "Salsa de tomate",
+                            "brand": "Mocitos",
+                            "net weight": "500 ml",
+                            "price": "1150 cup"
+                        }
+                    ]
+                },
+                {
+                    "coffees": [
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "Coaliment",
+                            "net weight": "250 g",
+                            "price": "2080 cup"
+                        },
+                        {
+                            "id_product": "prod_004",
+                            "type": "Café",
+                            "brand": "Eliges",
+                            "net weight": "250 g",
+                            "price": "1860 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Galo",
+                            "net weight": "500 g",
+                            "price": "400 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Galo",
+                            "net weight": "1 kg",
+                            "price": "795 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "La Marjal",
+                            "net weight": "500 g",
+                            "price": "1550 cup"
+                        },
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Tío josé",
+                            "net weight": "1 kg",
+                            "price": "750 cup"
+                        },
+                        {
+                            "id_product": "prod_013",
+                            "type": "Frijol Negro",
+                            "brand": "Cister",
+                            "net weight": "500 g",
+                            "price": "790 cup"
+                        },
+                        {
+                            "id_product": "prod_013",
+                            "type": "Frijol Negro",
+                            "brand": "Sebraz",
+                            "net weight": "1 kg",
+                            "price": "960 cup"
+                        },
+                        {
+                            "id_product": "prod_007",
+                            "type": "Lentejas",
+                            "brand": "La Asturiana",
+                            "net weight": "700 g",
+                            "price": "1030 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_0",
+                            "type": "Leche en polvo",
+                            "brand": "Silver Foods",
+                            "net weight": "1 kg",
+                            "price": "3145 cup"
+                        },
+                        {
+                            "id_product": "prod_014",
+                            "type": "Aceite vegetal",
+                            "brand": "Loro",
+                            "net weight": "750 ml",
+                            "price": "850 cup"
+                        },
+                        {
+                            "id_product": "prod_029",
+                            "type": "Harina de Trigo",
+                            "brand": "Eliges",
+                            "net weight": "1 kg",
+                            "price": "770 cup"
+                        },
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Silver Foods",
+                            "net weight": "1 kg",
+                            "price": "780 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_022",
+            "names": "D'cerca",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.140175",
+                "long": "-82.365093"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Badelli",
+                            "net weight": "400 g",
+                            "price": "530 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Vima",
+                            "net weight": "225 ml",
+                            "price": "1100 cup"
+                        },
+                        {
+                            "id_product": "prod_003",
+                            "type": "Mayonesa",
+                            "brand": "Kurtz",
+                            "net weight": "887 ml",
+                            "price": "2800 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Ada",
+                            "net weight": "500 g",
+                            "price": "340 cup"
+                        },
+                        {
+                            "id_product": "prod_006",
+                            "type": "Macaroni",
+                            "brand": "Ada",
+                            "net weight": "500 g",
+                            "price": "250 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Karibee",
+                            "net weight": "1 kg",
+                            "price": "700 cup"
+                        },
+                        {
+                            "id_product": "prod_013",
+                            "type": "Frijol Negro",
+                            "brand": "Granipack",
+                            "net weight": "500 g",  
+                            "price": "850 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_022",
+                            "type": "Sal",
+                            "brand": "Marcum",
+                            "net weight": "1 kg",
+                            "price": "750 cup"
+                        },
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": "Energy",
+                            "net weight": "1 kg",
+                            "price": "850 cup"
+                        },
+                        {
+                            "id_product": "prod_019",
+                            "type": "Leche condensada",
+                            "brand": "Castellum",
+                            "net weight": "390 g",
+                            "price": "650 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tienda_023",
+            "names": "Bueníssimo",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.142533",
+                "long": "-82.378764"
+            },
+            "website": null,
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": ["cup"],
+            "products": [
+                {
+                    "salsas": [
+                        {
+                            "id_product": "prod_001",
+                            "type": "Pasta de tomate",
+                            "brand": "Fontonella",
+                            "net weight": "400 g",
+                            "price": "380 cup"
+                        }
+                    ]
+                },
+                {
+                    "granos": [
+                        {
+                            "id_product": "prod_011",
+                            "type": "Arroz",
+                            "brand": "Sublime",
+                            "net weight": "1 kg",
+                            "price": "770 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Frijol Colorado",
+                            "brand": "Del Campo",
+                            "net weight": "1 lb",  
+                            "price": "910 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Alubias",
+                            "brand": "Del Campo",
+                            "net weight": "1 lb",
+                            "price": "970 cup"
+                        },
+                        {
+                            "id_product": "prod_0",
+                            "type": "Avena",
+                            "brand": "Eliges",
+                            "net weight": "500 g",
+                            "price": "920 cup"
+                        }
+                    ]
+                },
+                {
+                    "pastas": [
+                        {
+                            "id_product": "prod_005",
+                            "type": "Spaghetti",
+                            "brand": "Tu Pasta",
+                            "net weight": "500 g",
+                            "price": "400 cup"
+                        }
+                    ]
+                },
+                {
+                    "otros": [
+                        {
+                            "id_product": "prod_015",
+                            "type": "Azúcar",
+                            "brand": null,
+                            "net weight": "1 kg",
+                            "price": "850 cup"
+                        },
+                        {
+                            "id_product": "prod_019",
+                            "type": "Sal",
+                            "brand": null,
+                            "net weight": "1 kg",
+                            "price": "200 cup"
+                        },
+                        {
+                            "id_product": "prod_014",
+                            "type": "Aceite vegetal",
+                            "brand": "Alberio",
+                            "net weight": "750 ml",
+                            "price": "1300 cup"
+                        },
+                        {
+                            "id_product": "prod_016",
+                            "type": "Vinagre de vino",
+                            "brand": "Corina",
+                            "net weight": "500 ml",
+                            "price": "715 cup"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
