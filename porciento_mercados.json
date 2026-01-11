@@ -1,0 +1,16 @@
+{
+    "Por ciento de establecimientos por región": [
+        {
+            "region": "La Habana",
+            "estatal": 12.51,
+            "particular": 83.31,
+            "agropecuario": 4.18
+        },
+        {
+            "region": "Centro habana",
+            "estatal": 13.40,
+            "particular": 81.23,
+            "agropecuario": 5.37
+        }
+    ]
+}
