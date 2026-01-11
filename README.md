@@ -8,7 +8,8 @@ la inflación del dólar,
 los precios de los productos (cup y usd) y 
 la cantidad de mercados existentes en el territorio para efectuar la compra de los productos (estatales y particulares).
 
-Se demuestra que a pesar de las medidas no se ha logrado garantizar el acceso equitativo a los productos de primera necesidad, haciendo que los adultos mayores, sobretodo aquellos que dependen únicmente de su pensión, se vean afectados.
+Se demuestra que a pesar de las medidas no se ha logrado garantizar el acceso equitativo a los productos de primera necesidad, haciendo que los adultos mayores, sobretodo aquellos que dependen únicamente de su pensión, se vean afectados.
 
 Se debe tener en cuenta que la inflación no solo afecta la economía del país, sino que presenta una amenaza directa al bienestar, autonomía y dignidad de adultos mayores. 
+
 
