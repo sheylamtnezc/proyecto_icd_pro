@@ -1,0 +1,306 @@
+{
+    "usd_stores": [
+        {
+            "id": "tienda_usd_001",
+            "names": "La Borla",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "",
+                "long": ""
+            },
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": "usd",
+            "products": [
+                {
+                    "type": "Salsa de tomate",
+                    "brand": "Vima",
+                    "net weight": "390 g",
+                    "price": 2.20
+                },
+                {
+                    "type": "Pasta de tomate",
+                    "brand": "Sterilgarda",
+                    "net weight": "1000 g",
+                    "price": 2.75
+                },
+                {
+                    "type": "Aceite vegetal",
+                    "brand": "Safya",
+                    "net weight": "1 l",
+                    "price": 2.85
+                },
+                {
+                    "type": "Aceite vegetal",
+                    "brand": "Ada",
+                    "net weight": "1 l",
+                    "price": 2.40
+                },
+                {
+                    "type": "Arroz",
+                    "brand": "Guacira",
+                    "net weight": "1 kg",
+                    "price": 2.85
+                },
+                {
+                    "type": "Arroz",
+                    "brand": "Mary",
+                    "net weight": "1 kg",
+                    "price": 1.55
+                },
+                {
+                    "type": "Spaghetti",
+                    "brand": "Eliges",
+                    "net weight": "500 g",
+                    "price": 2.15
+                }
+            ]
+        },
+        {
+            "id": "tienda_usd_002",
+            "names": "Casa Linda",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.",
+                "long": "-82."
+            },
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": "cup",
+            "products": [
+                {
+                    "type": "Mayonesa",
+                    "brand": "Goya",
+                    "net weight": "473 ml",
+                    "price": 6.10
+                },
+                {
+                    "type": "Azúcar",
+                    "brand": "Geber",
+                    "net weight": "1 kg",
+                    "price": 2.35
+                },
+                {
+                    "type": "Chícharo",
+                    "brand": "Diana",
+                    "net weight": "340 g",
+                    "price": 1.55
+                },
+                {
+                    "type": "Frijol Colorado",
+                    "brand": "Diana",
+                    "net weight": "340 g",
+                    "price": 2.15
+                },
+                {
+                    "type": "Lentejas",
+                    "brand": "Diana",
+                    "net weight": "340 g",
+                    "price": 2.15
+                },
+                {
+                    "type": "Alubias",
+                    "brand": "Diana",
+                    "net weight": "340 g",
+                    "price": 2.30
+                },
+                {
+                    "type": "Arroz",
+                    "brand": "Diana",
+                    "net weight": "340 g",
+                    "price": 2.15
+                },
+                {
+                    "type": "Spaghetti",
+                    "brand": "Spaghetti",
+                    "net weight": "500 g",
+                    "price": 1.45
+                },
+                {
+                    "type": "Spaghetti",
+                    "brand": "Divella",
+                    "net weight": "500 g",
+                    "price": 2.40
+                },
+                {
+                    "type": "Salsa de tomate",
+                    "brand": "Cirio",
+                    "net weight": "680 g",
+                    "price": 4.10
+                },
+                {
+                    "type": "Arroz",
+                    "brand": "KDM",
+                    "net weight": "900 g",
+                    "price": 1.70
+                },
+                {
+                    "type": "Leche en polvo",
+                    "brand": "La Perla",
+                    "net weight": "1 kg",
+                    "price": 9.25
+                }
+            ]  
+        },
+        {
+            "id": "tienda_usd_003",
+            "names": "Carlos III",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.",
+                "long": "-82."
+            },
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": "usd",
+            "products": [
+                {
+                    "type": "Aceite vegetal",
+                    "brand": "Coamo",
+                    "net weight": "900 ml",
+                    "price": 2.10
+                },
+                {
+                    "type": "Pasta de tomate",
+                    "brand": "Sterilgarda",
+                    "net weight": "1000 g",
+                    "price": 2.75
+                },
+                {
+                    "type": "Café",
+                    "brand": "Caracolillo",
+                    "net weight": "284 g",
+                    "price": 5.50
+                },
+                {
+                    "type": "Café",
+                    "brand": "Alimerka",
+                    "net weight": "250 g",
+                    "price": 5.70
+                },
+                {
+                    "type": "Spaghetti",
+                    "brand": "Fabianem",
+                    "net weight": "500 g",
+                    "price": 1.80
+                },
+                {
+                    "type": "Spaghetti",
+                    "brand": "La Sabrosita",
+                    "net weight": "500 g",
+                    "price": 1.25
+                },
+                {
+                    "type": "Macaroni",
+                    "brand": "Eliges",
+                    "net weight": "500 g",
+                    "price": 1.70
+                },
+                {
+                    "type": "Salsa de tomate",
+                    "brand": "Mantia's",
+                    "net weight": "350 g",
+                    "price": 2.20
+                },
+                {
+                    "type": "Azúcar",
+                    "brand": "Acor",
+                    "net weight": "1 kg",
+                    "price": 3.00
+                },
+                { 
+                    "type": "Harina de Trigo", 
+                    "brand": "Alimerka", 
+                    "net weight": "1 kg", 
+                    "price": 1.90
+                },
+                {
+                    "type": "Azúcar",
+                    "brand": "Vima",
+                    "net weight": "1 kg",
+                    "price": 2.10
+                },
+                {
+                    "type": "Arroz",
+                    "brand": "Alimerka",
+                    "net weight": "1 kg",
+                    "price": 4.20
+                },
+                {
+                    "type": "Arroz",
+                    "brand": "Eliges",
+                    "net weight": "1 kg",
+                    "price": 3.10
+                },
+                {
+                    "type": "Chícharo",
+                    "brand": "Carolina",
+                    "net weight": "500 g",
+                    "price": 2.40
+                },
+                {
+                    "type": "Garbanzo",
+                    "brand": "Alimerka",
+                    "net weight": "500 g",
+                    "price": 4.00
+                },
+                {
+                    "type": "Lentejas",
+                    "brand": "Alimerka",
+                    "net weight": "500 g",
+                    "price": 3.70
+                },
+                {
+                    "type": "Alubias",
+                    "brand": "Alimerka",
+                    "net weight": "500 g",
+                    "price": 4.00
+                }
+            ]
+        },
+        {
+            "id": "tienda_usd_003",
+            "names": "América",
+            "location": {
+                "province": "La Habana",
+                "municipality": "Centro Habana",
+                "lat": "23.",
+                "long": "-82."
+            },
+            "payment_methods": ["efectivo", "pago electrónico"],
+            "currency": "usd",
+            "products": [
+                {
+                    "type": "Aceite vegetal",
+                    "brand": "Coamo",
+                    "net weight": "900 m l",
+                    "price": 2.21
+                },
+                {
+                    "type": "Aceite vegetal",
+                    "brand": "Coreysol",
+                    "net weight": "1 l",
+                    "price": 2.75
+                },
+                {
+                    "type": "Leche en polvo",
+                    "brand": "La Vaquita",
+                    "net weight": "1 kg",
+                    "price": 6.90
+                },
+                {
+                    "type": "Alubias",
+                    "brand": "Domingo Grau",
+                    "net weight": "1 kg",
+                    "price": 3.75
+                },
+                {
+                    "type": "Lentejas",
+                    "brand": "Domingo Grau",
+                    "net weight": "1 kg",
+                    "price": 2.50
+                }
+            ]
+        }
+    ]
+}
