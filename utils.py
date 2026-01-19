@@ -1,7 +1,7 @@
 import json
 import matplotlib.pyplot as plt
 
-def grafico_precio_usd(archivo_json):
+def grafico_precio_usd(archive):
     with open("precio_usd.json", "r", encoding="utf-8") as file:
         data = json.load(file)
     #Extrae los valores de precio
@@ -22,7 +22,7 @@ def grafico_precio_usd(archivo_json):
     plt.legend()
     plt.show()
 
-def promedio_precios_cup(ruta_archivo):
+def promedio_precios_cup(archive):
     with open("tiendas.json", "r", encoding="utf-8") as file:
         data = json.load(file)
     #Diccionario que recopila los valores necesarios
@@ -68,36 +68,36 @@ def graficar_promedios(prom_cup):
     plt.tight_layout()
     plt.show()
 
-def data_habana(archivo):
-    with open(archivo, "r", encoding="utf-8") as f:
+def data_habana(archive):
+    with open("porciento_mercador.json", "r", encoding="utf-8") as f:
         datos = json.load(f)
     # Busca los datos de las categorías para La Habana
     for j in datos["Por ciento de establecimientos por región"]:
         if j["region"].lower() == "la habana":
-            valores = [j["estatal"], j["particular"], j["agropecuario"]]  
-            etiquetas = ["Estatal", "Particular", "Agropecuario"]
-            return etiquetas, valores
+            values = [j["estatal"], j["particular"], j["agropecuario"]]  
+            labels = ["Estatal", "Particular", "Agropecuario"]
+            return labels, values
 
-def grafico_pie(etiquetas, valores):
+def grafico_pie_habana(labels, values):
     plt.figure(figsize=(6, 6))
-    plt.pie(valores, labels=etiquetas, autopct="%1.1f%%", startangle=90, colors=["#fedabb", "#ff9999", "#f0d4cb"])
+    plt.pie(values, labels=labels, autopct="%1.2f%%", startangle=90, colors=["#fedabb", "#ff9999", "#f0d4cb"])
     plt.title("Porcentaje de Establecimientos en La Habana")
     plt.axis("equal")
     plt.show()
 
-def data_ch(archivo):
-    with open(archivo, "r", encoding="utf-8") as f:
+def data_ch(archive):
+    with open("porciento_mercados.json", "r", encoding="utf-8") as f:
         datos = json.load(f)
     # Busca los datos de las categorías para Centro Habana
     for j in datos["Por ciento de establecimientos por región"]:
         if j["region"].lower() == "centro habana":
-            valores = [j["estatal"], j["particular"], j["agropecuario"]]  
-            etiquetas = ["Estatal", "Particular", "Agropecuario"]
-            return etiquetas, valores
+            values = [j["estatal"], j["particular"], j["agropecuario"]]  
+            labels = ["Estatal", "Particular", "Agropecuario"]
+            return labels, values
 
-def grafico_pie(etiquetas, valores):
+def grafico_pie_ch(labels, values):
     plt.figure(figsize=(6, 6))
-    plt.pie(valores, labels=etiquetas, autopct="%1.1f%%", startangle=90, colors=["#fedabb", "#ff9999", "#f0d4cb"])
+    plt.pie(values, labels=labels, autopct="%1.2f%%", startangle=90, colors=["#fedabb", "#ff9999", "#f0d4cb"])
     plt.title("Porcentaje de Establecimientos en Centro Habana")
     plt.axis("equal")
     plt.show()
@@ -204,40 +204,6 @@ def grafica_comp_aceite(i):
     plt.tight_layout()
     plt.show()
 
-def data_habana(archivo):
-    with open(archivo, "r", encoding="utf-8") as f:
-        datos = json.load(f)
-    # Busca los datos de las categorías para La Habana
-    for j in datos["Por ciento de establecimientos por región"]:
-        if j["region"].lower() == "la habana":
-            valores = [j["estatal"], j["particular"], j["agropecuario"]]  
-            etiquetas = ["Estatal", "Particular", "Agropecuario"]
-            return etiquetas, valores
-
-def grafico_pie_habana(etiquetas, valores):
-    plt.figure(figsize=(6, 6))
-    plt.pie(valores, labels=etiquetas, autopct="%1.1f%%", startangle=90, colors=["#fedabb", "#ff9999", "#f0d4cb"])
-    plt.title("Porcentaje de Establecimientos en La Habana")
-    plt.axis("equal")
-    plt.show()
-
-def data_ch(archivo):
-    with open(archivo, "r", encoding="utf-8") as f:
-        datos = json.load(f)
-    # Busca los datos de las categorías para Centro Habana
-    for j in datos["Por ciento de establecimientos por región"]:
-        if j["region"].lower() == "centro habana":
-            valores = [j["estatal"], j["particular"], j["agropecuario"]]  
-            etiquetas = ["Estatal", "Particular", "Agropecuario"]
-            return etiquetas, valores
-
-def grafico_pie_ch(etiquetas, valores):
-    plt.figure(figsize=(6, 6))
-    plt.pie(valores, labels=etiquetas, autopct="%1.1f%%", startangle=90, colors=["#fedabb", "#ff9999", "#f0d4cb"])
-    plt.title("Porcentaje de Establecimientos en Centro Habana")
-    plt.axis("equal")
-    plt.show()
-
 def tasa_usd(archive):
     with open("precio_usd.json", 'r', encoding='utf-8') as f:
         data_precio = json.load(f)
@@ -283,10 +249,10 @@ def grafica_comparacion(prom_cup, prom_usd):
     # Extrae los valores promedio para cada tipo en común
     valores_cup = [prom_cup[tipo] for tipo in tipos_comunes]
     valores_usd = [prom_usd[tipo] for tipo in tipos_comunes]
-    
+    #Declara la variable x y el ancho de las barras
     x = range(len(tipos_comunes))
     ancho = 0.40
-
+    #Graficar
     plt.figure(figsize=(12, 6))
     plt.bar([i - ancho/2 for i in x], valores_cup, width=ancho, label="Tiendas CUP", color="#a66a4e")
     plt.bar([i + ancho/2 for i in x], valores_usd, width=ancho, label="Tiendas USD (convertido)", color="#533527")
@@ -296,4 +262,3 @@ def grafica_comparacion(prom_cup, prom_usd):
     plt.legend()
     plt.tight_layout()
     plt.show()
-
