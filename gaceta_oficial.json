@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "source": "Gaceta Oficial de la República de Cuba"
+    },
+    "data": [
+        {
+            "resolution": "Resolución 225/2024",
+            "year": 2024,
+            "theme": "Exonera del pago del Impuesto Aduanero a las importaciones a un grupo de productos y a la vez establece los precios minoristas máximos a aplicar en la comercialización de dichos productos",
+            "prices": {
+                "leche en polvo": "1675 cup",
+                "pastas alimenticias": "835 cup",
+                "aceite": "990 cup"
+            }
+        },
+        {
+            "resolution": "Resolución 14/2025",
+            "year": 2025,
+            "theme": "Incrementa las pensiones",
+            "pension_minima": "3056 cup"
+        }
+    ]
+}
