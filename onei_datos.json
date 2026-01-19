@@ -1,10 +1,22 @@
-[
-    {
-        "casas de abuelos": 35,
-        "provincia": "La Habana"
+{
+    "metadata": {
+        "source" : "ONEI",
+        "archives": ["Anuario Estadístico 2024", "ICP Diciembre 2025"]
     },
-    {
-        "hogares de ancianos": 20,
-        "provincia": "La Habana"
-    }
-]
+    "data": [
+        {
+            "year": 2024,
+            "category": "Población residente en Cuba mayor de 65 años",
+            "amount": 1722737
+        },
+        {
+            "year": 2024,
+            "category": "Salud y asistencia social",
+            "region": "La Habana",
+            "amount": {
+                "Hogares de ancianos": 20,
+                "Casas de abuelos": 35
+            }
+        }
+    ]
+}
