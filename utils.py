@@ -117,7 +117,7 @@ def leche_en_polvo(archive):
     return store_prices
 
 def grafica_comp_leche(i):
-    #Separa las tuplas en listas
+    #Separa los elementos de las tuplas en listas
     store_names = []
     for pair in leche_en_polvo("tiendas.json"):
         name = pair[0]
@@ -249,7 +249,7 @@ def tasa_usd(archive):
     tasa_usd = sum(precios_usd) / len(precios_usd)
     return tasa_usd
 
-def promedio_precios_usd(ruta_archivo):
+def promedio_precios_usd(archive):
     with open("tiendas_usd.json", "r", encoding="utf-8") as file:
         data = json.load(file)
     #Diccionario que recopila los valores necesarios
