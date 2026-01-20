@@ -265,10 +265,12 @@ def grafica_comparacion(prom_cup, prom_usd):
 
 def porcientos(prom_cup):
     total = 3056  # Pensión mínima en CUP
-    porcientos = {}
+    data = {}
     for type, price in prom_cup.items():
         porciento = round((price / total) * 100)
-        porcientos[type] = porciento
+        data[type] = porciento
+    # Crea un nuevo diccionario ordenado alfabeticamente por tipo de producto
+    porcientos = {j: data[j] for j in sorted(data.keys())}
     return porcientos
 
 def grafica_porciento(porcientos):
@@ -293,7 +295,3 @@ def grafica_porciento(porcientos):
     plt.grid(axis='y')
     plt.tight_layout()
     plt.show()
-
-prom_cup = promedio_precios_cup("tiendas.json")
-porcientos_data = porcientos(prom_cup)
-grafica_porciento(porcientos_data)
