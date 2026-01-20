@@ -80,7 +80,7 @@ def data_habana(archive):
 
 def grafico_pie_habana(labels, values):
     plt.figure(figsize=(6, 6))
-    plt.pie(values, labels=labels, autopct="%1.2f%%", startangle=90, colors=["#fedabb", "#ff9999", "#f0d4cb"])
+    plt.pie(values, labels=labels, autopct="%1.2f%%", startangle=90, colors=["#ffa974", "#f2b189", "#300c08"])
     plt.title("Porcentaje de Establecimientos en La Habana")
     plt.axis("equal")
     plt.show()
@@ -128,7 +128,7 @@ def grafica_comp_leche(i):
         prices.append(price)
 
     plt.bar(store_names, prices, color="#d9b59b")
-    plt.axhline(y=1045, color="#533527", ls="--", label="Precio topado")
+    plt.axhline(y=1675, color="#533527", ls="--", label="Precio topado")
     plt.legend()
     plt.title("Comparación del precio de la leche en polvo")
     plt.xticks(rotation=45, ha="right")
@@ -196,7 +196,7 @@ def grafica_comp_aceite(i):
         prices.append(price)
     
     plt.bar(store_names,prices,color="#7c5c4b")
-    plt.axhline(y=810,color="#d5ba9f",ls="--",label="Precio topado")
+    plt.axhline(y=990,color="#d5ba9f",ls="--",label="Precio topado")
     plt.legend()
     plt.title("Comparación del precio del aceite")
     plt.annotate("Precio topado: 810 CUP", xy=(len(store_names)//2, 810), xytext=(len(store_names)//2, 810), ha="center",)

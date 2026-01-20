@@ -7,7 +7,12 @@
         {
             "year": 2024,
             "category": "Población residente en Cuba mayor de 65 años",
-            "amount": 1722737
+            "amount_p": 1722737
+        },
+        {
+            "year": 2024,
+            "category": "Población total de Cuba",
+            "amount_t": 9748007
         },
         {
             "year": 2024,
