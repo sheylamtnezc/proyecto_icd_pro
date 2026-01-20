@@ -6,8 +6,8 @@
             "location": {
                 "province": "La Habana",
                 "municipality": "Centro Habana",
-                "lat": "",
-                "long": ""
+                "lat": "23.132896",
+                "long": "-82.363063"
             },
             "payment_methods": ["efectivo", "pago electrónico"],
             "currency": "usd",
@@ -62,8 +62,8 @@
             "location": {
                 "province": "La Habana",
                 "municipality": "Centro Habana",
-                "lat": "23.",
-                "long": "-82."
+                "lat": "23.136829",
+                "long": "-82.363334"
             },
             "payment_methods": ["efectivo", "pago electrónico"],
             "currency": "cup",
@@ -148,8 +148,8 @@
             "location": {
                 "province": "La Habana",
                 "municipality": "Centro Habana",
-                "lat": "23.",
-                "long": "-82."
+                "lat": "23.131161",
+                "long": "-82.374470"
             },
             "payment_methods": ["efectivo", "pago electrónico"],
             "currency": "usd",
@@ -259,13 +259,13 @@
             ]
         },
         {
-            "id": "tienda_usd_003",
+            "id": "tienda_usd_004",
             "names": "América",
             "location": {
                 "province": "La Habana",
                 "municipality": "Centro Habana",
-                "lat": "23.",
-                "long": "-82."
+                "lat": "23.136728",
+                "long": "-82.361597"
             },
             "payment_methods": ["efectivo", "pago electrónico"],
             "currency": "usd",
