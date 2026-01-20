@@ -262,3 +262,15 @@ def grafica_comparacion(prom_cup, prom_usd):
     plt.legend()
     plt.tight_layout()
     plt.show()
+
+def porciento(archive):
+    with open("onei_datos.json", "r", encoding="utf-8") as f:
+        datos = json.load(f)
+    # Calcula el porciento representado por la poblacióm mayor de 65 años en el país
+    for p in datos["data"]:
+        over65 = p["amount_p"]
+        total = p["total"]
+    porciento_mayores = (over65 / total) * 100
+    return porciento_mayores    
+
+print(porciento("onei_datos.json"))
