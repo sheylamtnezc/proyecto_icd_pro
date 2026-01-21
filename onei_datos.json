@@ -6,7 +6,8 @@
     "data": [
         {
             "year": 2024,
-            "category": "Población residente en Cuba mayor de 65 años",
+            "category": "Población residente mayor de 65 años",
+            "region": "Cuba",
             "amount_p": 1722737
         },
         {
